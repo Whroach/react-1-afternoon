@@ -1079,7 +1079,7 @@ export default class FilterString extends Component {
         <span className="resultsBox filterStringRB"> Filtered Names: { JSON.stringify(this.state.filteredNames, null, 10) } </span>
       </div>
     )
-  }
+
 }
 ```
 
